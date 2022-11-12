@@ -1,0 +1,22 @@
+.parallax-bg {
+    padding: 250px 0;
+    background-image:url(./images/pat/3333д.jpg) ;
+    background-size: cover;
+    background-attachment: fixed;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease ;
+    transition: all 0.2s ease;
+    
+    }
+    .content{
+      height: 1000px;
+      background-color: #dedede;
+    
+    }
+    .parallax-bg h1{
+      text-align: center;
+      text-transform: uppercase;
+      color:white;
+      font-size: 60px;
+      font-family: sans-serif;
+    }

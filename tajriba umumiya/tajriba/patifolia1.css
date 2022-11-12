@@ -1,0 +1,540 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+a{
+    color:white;
+}
+
+p{
+    color: black;
+}
+.container90 {
+    width: 90%;
+    margin: auto;
+}
+html {
+    font-family: sans-serif;
+}
+a{
+    
+    text-decoration: none;
+}
+
+
+li{
+    list-style: none;
+  
+}
+.korcholon105{
+    color: black;
+}
+.husanboy {
+    width: 70px;
+    height: 50px;
+    background-size: cover;
+    margin-top: 5px;
+
+}
+ul{
+    margin-bottom: 0;
+}
+ul li {
+    display: inline-block;
+    padding: 30px 9px;
+    padding-bottom: 40px;
+margin: 0 7px;
+margin-bottom: 0;
+}
+.apple{
+    background-color: none;
+    color: #fff;
+}
+.apple:hover{
+    background-color: white;
+    color: black !important;  
+}
+.husanbo{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+}
+img{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-size: cover;
+    
+}
+.setiin{
+color: #fff;
+margin-bottom: 100px;
+position:absolute ;
+top:50%;
+margin-left: 90px;
+}
+.sittin {
+    margin: 20px;
+    background-color: #fff;
+    color: black;
+    padding: 20px 10px;
+    text-align: center;
+
+}
+.korcholon1{
+position: relative;
+    background-color:rgb(129, 119, 119);
+   border-radius: 50%;
+top: 700px;
+left: 1300px;
+width: 50px;
+height: 50px;
+cursor: pointer;
+
+    }
+
+
+
+
+   
+.kiak5{
+   width: 100%;
+   height: 80vh;
+   background-size: cover;
+   margin-bottom: 30px;
+   
+}
+.hikmatillo{
+    text-align: center;
+    font-size: 46px;
+}
+.sher{
+    display: inline-block;
+   color:black;
+   margin: 0;
+   padding: 0;
+   padding: 10px 20px;
+   margin-left: 5px;
+  font-size: 14px;
+}
+.clr{
+    clear: both;
+}
+.containe {
+    width: 60%;
+    margin: auto;  
+}
+.hilut{
+    margin: 0;
+ width: 60%;
+ display: inline-block;
+text-align:center;
+margin-left: 150px;
+
+}
+.sittin1 {
+display: inline-block;
+  margin-right: 70px;
+    background-color:black;
+    color: #fff;
+    padding: 30px 10px;
+    text-align: center;
+ width: 20%;
+ float: right;
+
+
+}
+.hilut .h1 {
+    margin-bottom: 15px;
+}
+.hikmatillo1{
+    text-align: center;
+    font-size: 56px;
+    margin-top: 200px;
+    display: block;
+    margin-bottom: 30px;
+}
+.hikmatillo2 {
+    width: 100%;
+    height: 80vh;
+}
+.husanboy3{
+    display: inline-block;
+    width: 25%;
+    float: left;
+    margin-left: 20px;
+    height: 200px;
+    background-size: cover;
+
+
+}
+.husanboy31{
+    display: inline-block;
+    width: 25%;
+    float: left;
+    margin-left: 20px;
+   font-size: 24px;
+   margin-top: 20px;
+ text-align: center;
+ background-color:aliceblue;
+
+
+}
+.sittin4 {
+    display: inline-block;
+   font-size: 20px;
+        background-color:black;
+        color: #fff;
+        padding: 17px 10px;
+        text-align: center;
+     width: 20%;
+     margin-left: 40%;
+
+    
+    
+    }
+.husanboy6{
+    width: 100%;
+    height: 70vh;
+}
+.sittin7 {
+   margin-top: 70px;
+   font-size: 50px;
+      margin-bottom: 20px;
+        color: black;
+     
+        text-align: center;
+   
+
+    
+    
+    }
+    .center{
+        text-align: center;
+        color: black;    }
+       .container7{
+width: 90%;
+margin: auto;
+
+       }
+.kap{
+    width: 45%;
+    display: inline-block;
+   margin-bottom: 90px;
+   font-size: 40px;
+}
+.ong{
+    width: 54%;
+    display: inline-block;
+    font-size: 20px;
+    float: right;
+}
+.husanboy9{
+    background-color: rgba(12, 3, 14, 0.945);
+}
+.husanboy10{
+    text-align: left;
+color: #fff;
+font-size: 24px;
+padding: 15px 15px;
+margin-bottom: 30px;
+padding-bottom: 70px;
+border-bottom:1px solid rgba(133, 78, 164, 0.791);
+padding-top: 70px;
+
+}
+.husanboy11{
+    width: 70%;
+    float: left;
+    display: inline-block;
+}
+.husanboy12{
+    width: 29%;
+   
+}
+.husanboy14{
+    width: 100%;
+    height: 160vh;
+    background-color: rgba(48, 22, 64, 0.791);
+    
+}
+.husanboy15{
+display: inline-block;
+float: right;
+}
+.husanboy16{
+    display: inline-block;
+}
+.youtube{
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    margin-top: 0px;
+    
+}
+.size{
+    font-size: 30px;
+    margin-top: 0px ;
+  
+}
+.mar{
+    margin: 0px;
+    margin-bottom: 20px;
+    padding: 0;
+}
+.mari{
+    margin: 0;
+    padding: 0;
+}
+.youtube1{
+ 
+    width: 35px;
+    height: 35px;
+    margin-top: 0px;
+}
+.lola{
+    padding: 90px 0px;
+}
+.your-class1{
+    width: 100%;
+height: 60vh;
+position: relative;
+   
+}
+.husanboy17{
+    height: 30vh;
+    background-size: cover;
+    position: relative;
+}
+.kor4{
+background-size: cover;
+}
+.husanboy18{
+    margin-top: 50vh;
+}
+*,*::before, *::after{
+    box-sizing: border-box;
+}
+.carousel{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.slide{
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: 200ms opacity ease-in-out;
+    transition-delay: 200ms;
+}
+.kor11{
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+}
+.slide[data-active]{
+    opacity: 1;
+    z-index: 1;
+    transition-delay: 0ms;
+}
+.corousel-button {
+    position: absolute;
+    z-index: 2;
+    background:none;
+    border: none;
+    font-size: 4rem;
+    top:50%;
+    transform: translateY(-50%);
+    color: rgba(255, 255, 255, .5);
+    cursor: pointer;
+    border-radius: .25rem;
+    padding: 0 .5rem;
+    background-color: rgba(0,0,0, .1);
+}
+.corousel-button:hover,
+.corousel-button:focus{
+    color: white;
+    background-color: rgba(0,0,0, .2);
+}
+.corousel-button:focus{
+    outline: 1px solid black;
+}
+.corousel-button.next{
+    right: 5rem;
+}
+.corousel-button.prev{
+    left: 5rem;
+}
+.korcholon104{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: darkslategrey;
+    position: absolute;
+    display: inline-block;
+  left: 96%;
+  border:1px solid black;
+}
+.korcholon100{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: darkslategrey ;
+    position: absolute;
+    display: inline-block;
+  top: 350px;
+  border:1px solid black;
+}
+
+.kor27{
+margin-left: 10px;
+
+}
+.kor29{
+    display: inline-block;
+
+ 
+   
+   font-size: 22px;
+   padding: 10px;
+ 
+ background-color:aliceblue;
+ padding-left: 40px;
+
+}
+.kor21{
+    font-size: 16px;
+    color: rgb(87, 82, 75);
+   
+    padding-bottom: 100px;
+
+}
+
+
+
+
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3));
+    position: relative;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+
+  .oyatillo{
+  width: 70px;
+  height: 50px;
+  background-size: cover;
+  margin: 0 20px;
+  padding-bottom: 15px;
+  }
+  nav ul li  {
+    list-style: none;
+    display: inline-block;
+  margin: 0 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  }
+  nav ul{
+    text-decoration: none;
+    list-style: none;
+  }
+  .oyatillo1{
+    height: 30px;
+    width: 30px;
+  }
+
+  .content{
+    text-align: left;
+  display: inline-block;
+  padding-bottom: 10px;
+  margin-left: -46%;
+  margin-bottom: -20%;
+  
+  }
+  .content h1{
+    font-size: 50px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 0;
+ }
+  .content p{
+    color:white;
+    margin: 0;
+    display: inline-block;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+  .content a{
+    text-decoration: none;
+   display: inline-block;
+    background-color: white;
+    border: 1px solid #fff;
+    padding: 10px 16px;
+    color: black;
+    font-size: 20px;
+    margin-top: 12px;
+    
+  
+  }
+  .content a:hover{
+    text-decoration: none;
+   display: inline-block;
+    background-color: black;
+    border: 1px solid #fff;
+    padding: 10px 16px;
+    color: white;
+    font-size: 20px;
+    margin-top: 12px;
+    
+  
+  }
+  .oyatillo3{
+    position: absolute;
+   width: 100%;
+    bottom: 0;
+    z-index: -1;
+}
+
+
+ 
+
+ nav {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0px 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  border-bottom:0.5px solid rgb(50, 49, 49);
+  
+  }
+  nav:hover{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0px 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  border-bottom:0.5px solid black;
+  background-color:black;
+  color: black !important;
+ }
+ .kiak{
+    background-size: cover;
+ }

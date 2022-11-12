@@ -1,0 +1,300 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+html {
+    font-family: sans-serif;
+}
+a  {
+    color: black;
+    text-decoration: none;
+
+}
+#navbar a:hover{
+  
+color:blueviolet;
+
+}
+ul  {
+    list-style: none;
+}
+
+.it {
+  
+    color: coral !important; 
+}
+h1 ,h2 ,h3 {
+    padding-bottom: 20px;
+}
+p {
+    margin: 10px 0;
+}
+#navbar{
+    background-color: black;
+    overflow: auto;
+}
+#navbar a {
+    color: white;
+}
+#navbar h1 {
+    float: left ;
+    width: 30%;
+    padding-top: 20px;
+
+}
+#navbar ul {
+    float: right;
+   
+
+}
+#navbar ul li {
+    display: inline;
+    width: 65%;
+   padding:0 20px; 
+   font-size: 20px;
+  
+  
+}
+#navbar ul li a {
+  display:inline-block;
+    padding-top: 20px;
+}
+.text-primary {
+    color: #f7c08a;
+}
+.lead {
+    font-size: 20px;
+}
+.btn {
+    display: inline-block;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    padding: 14px 21px;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #f7c08a;
+    color: black;
+
+}
+.btn-light {
+    color: black;
+    background-color: #f4f4f4;
+    display: inline-block;
+    font-size: 16px;
+    padding: 14px 21px;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.btn-light:hover{
+    color: white;
+    background-color:#f7c08a;
+}
+.btn-dark {
+    background-color: black;
+    color: white;
+}
+.bg-dark {
+    background-color: black;
+    color: white;
+}
+.bg-light {
+    color: black;
+    background-color: #f4f4f4;
+}
+.bg-primary {
+    color: black;
+    background-color:#f7c08a ;
+}
+.clr {
+    clear: both;
+}
+.showcase {
+    background-image: url(aaa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 150px 0;
+    text-align: center;
+    color: white;
+}
+.showcase p {
+    color: black;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.showcase h1 {
+    font-size: 50px;
+}
+.alibobo .paxta {
+    background-image: url(33333.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+.alibobo .mashina {
+ 
+    width: 50%;
+   float: right;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 300px;
+  
+   
+}
+.alibobo .mashina h3 {
+   font-size: 25px;
+    padding-top: 90px;
+   
+
+}
+.alixan .box1 {
+    width: 33%;
+    float: left;
+    text-align: center;
+
+}
+.alixan .box1 img{
+height: 120px;
+width: 150px;
+margin-top: 15px;
+    
+}
+#main-footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+   padding: 15px 0;
+}
+.right img {
+    border-radius: 50%;
+    width: 30%;
+    float:right;
+height: 300px;
+margin: 20px 0;
+}
+.left {
+    border-radius: 50%;
+    width: 60%;
+    float: left;
+   
+}
+.left H1 {
+   margin-top: 15px ;
+   font-family: sans-serif;
+   font-size: 32px;
+
+}
+.left p {
+margin: 20px 5px;
+font-size: 20px;
+padding: 0 10px;
+
+}
+.mex {
+ 
+    background-image: url(aaa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 150px 0;
+    text-align: center;
+    color: white;
+   
+}
+.tup {
+    width: 90%;
+  padding: 15px 5px;
+   
+    background-color: coral;
+    margin:0  auto;
+}
+.tap {
+    
+    padding: 15px 5px;
+   
+    background-color: coral;
+    margin:25px auto ;
+    width: 90%;
+
+}
+.tup img {
+  float: left;
+ margin:0 5px ;
+  height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.tap img {
+    float: left;
+    margin:5px 5px ;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.aql h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+}
+.aql p {
+    color: black;
+}
+.galasy input {
+    width: 98%;
+    padding: 8px;
+    margin: 10px 0;
+}
+.galasy textarea {
+    width: 100%;
+    height: 200px;
+    margin: 10px 0;
+}
+.galasy  {
+    margin: 20px 0;
+}
+.btn-sidi {
+    display: inline-block;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    padding: 14px 21px;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+
+}
+.btn-sidi:hover {
+    background-color: #f7c08a;
+    color: black;
+}
+.kile {
+    background-color:darkslategray;
+    color: #f4f4f4;
+  width: 100%;
+  height: 250px; 
+}
+
+.kile .box1 {
+    width: 33%;
+    float: left;
+    text-align: center;
+  
+}
+.kile .box1 img {
+height: 120px;
+width: 150px;
+margin-top: 15px;
+}
